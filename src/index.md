@@ -5,7 +5,7 @@ for the Klepac-Ceraj Lab at Wellesley College.
 Check out the [drylab documentation][1] for information
 on how to update or add to this repository.
 
-[1]: src/drylab_protocols
+[1]: drylab_protocols
 
 ## Lab Goals
 
