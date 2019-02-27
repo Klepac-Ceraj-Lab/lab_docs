@@ -10,24 +10,26 @@ for everyone associated with the lab.
 My goal is to help everyone in this group become productive, c
 reative and independent scientists.
 The qualities I require for people joining our lab are:
+
 - **Passion:**
-your work has to get you out of bed in the morning
+    your work has to get you out of bed in the morning
 - **Kindness:**
-taking action to help others in the lab
-and to be a supportive member of our community
-- **Self-direction:** I am hands-off. I want you to work independently and come to me when you have questions.
+    taking action to help others in the lab
+    and to be a supportive member of our community
+- **Self-direction:**
+    I am hands-off. I want you to work independently and come to me when you have questions.
 - **Rigor:**
-Your work should be reproducible, accessible, and clearly thought out.
-I want you to present your work clearly and succinctly.
+    Your work should be reproducible, accessible, and clearly thought out.
+    I want you to present your work clearly and succinctly.
 - **Participation:**
-I want you to help others,
-to share ideas and thoughts with others in the lab.
-I also want you to stay on top of literature.
+    I want you to help others,
+    to share ideas and thoughts with others in the lab.
+    I also want you to stay on top of literature.
 - **Completing projects:**
-Papers are currency.
-Although you are an undergraduate,
-it matters if your work is published.
-This is the only community record of the work that you have done.
+    Papers are currency.
+    Although you are an undergraduate,
+    it matters if your work is published.
+    This is the only community record of the work that you have done.
 
 ### Safety
 
@@ -44,7 +46,7 @@ This is the only community record of the work that you have done.
 - Familiarize yourself with the lab’s chemical hygiene plan
 - Follow the plan
 - If you need personal protective equipment (PPE), order it.
-Or ask Sophie to order it.
+    Or ask Sophie to order it.
 - If your health status changes,
 tell me in private so that we can investigate
 how this might affect your ability to work in the lab
