@@ -1719,35 +1719,31 @@ provide Vanja or Kevin with your github user name.
 
 Once the issue is submitted,
 Vanja and Kevin will review the issue and approve it,
-which contitutes their agreement to the policies outlined above.
+which constitutes their agreement to the policies outlined above.
 
 ## Appendices
 
 ### References
 
-1.
- NC State University,
+[^1]: NC State University,
 Department of Chemistry,
 [Undergraduate Research Guidelines].
 Accessed on June 13,
 2019.
 
-2.
- Wayne Iba,
+[^2]: Wayne Iba,
 Professor of Computer Science,
 Westmont College.
 <https://www.westmont.edu/~iba/doingresearch.html>.
 Accessed on June 13,
 2019.
 
-3.
- Unknown author.
+[^3]: Unknown author.
 <https://edgeforscholars.org/wp-content/uploads/2018/06/Lab-Guidelines.pdf>.
 Accessed June 14,
 2019.
 
-4.
- Gloria Luong.
+[^4]: Gloria Luong.
 How to work successfully with undergraduate students.
 From the Science Student Council.
 Psychological Science Agenda,
@@ -1756,8 +1752,7 @@ February 2010.
 Accessed on June 14,
 2019.
 
-5.
- Morgan McGuire,
+[^5]: Morgan McGuire,
 Professor of Computer Science,
 Williams College.
 An Open Letter to Undergraduate Research Assistants,
@@ -1767,35 +1762,23 @@ May 2,
 Accessed June 14,
 2019.
 
-6.
- George Mason University Students as Scholars Initiative.
+[^6]: George Mason University Students as Scholars Initiative.
 (2015,
 June).
 *Students as Scholars program rubric.* <https://oscar.gmu.edu/faculty-staff/student-learning-outcomes/>.
 Accessed on June 14,
 2019.
 
-7.
- Pat Schloss.
+[^7]: Pat Schloss.
 Social Contract.
 <http://www.schlosslab.org/lab_business/social_contract.html>.
 Accessed on August 19,
 2019.
 
-8.
- Ting Lena,
+[^8]: Ting Lena,
 On how to run a successful lab meeting: <http://neuromechanicslab.emory.edu/documents/advice-docs/Labmeetings.pdf>.
 Accessed on August 19,
 2019.
-
-  [showard@wellesley.edu]: file:///Users/vanja/Desktop/showard@wellesley.edu
-  [Material Safety Data Sheets]: http://www.wellesley.edu/Safety/msds.html
-  [Wellesley’s Laboratory Safety]: https://www.wellesley.edu/facilities/ehs/labsafety
-  [Wellesley College Biological Safety Manual]: https://www.wellesley.edu/facilities/ehs/biosafetymanual
-  [Disposal of Biological Waste]: https://www.wellesley.edu/sites/default/files/assets/departments/ehs/files/disposal_of_medical_matrix_simple_dec_2010.pdf
-  [Standard Operating Procedure (SOP) for Bleach Disinfection]: https://www.wellesley.edu/sites/default/files/assets/departments/ehs/files/sop_for_bleach_disinfection.pdf
-  [Safety Data Sheets]: https://www.wellesley.edu/facilities/ehs/sds
-  [Undergraduate Research Guidelines]: https://chemistry.sciences.ncsu.edu/undergraduate/research-opportunities/undergraduate-research-guidelines/
 
 [1]: https://docs.google.com/a/wellesley.edu/spreadsheets/d/1mNVP7iphVvBv-N7P7Vcc_O3keErY9Tm-mY-fzow6dqw/edit#gid=0
 [2]: http://www.wellesley.edu/Safety/lab.html
