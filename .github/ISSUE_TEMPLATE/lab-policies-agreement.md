@@ -4,7 +4,7 @@ about: Please submit an issue agreeing to the following before the first lab mee
   of each academic year or when you first join the lab, whichever is sooner)
 title: ''
 labels: Student Agreement
-assignees: kescobo
+assignees: kescobo, vanjakle
 
 ---
 
