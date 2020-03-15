@@ -5,6 +5,8 @@
 
 For labeling freezer boxes, use the [DYMO LabelWriter450](https://www.dymo.com/en-US/labelwriter-450-label-printer) to print a pair of [DTCR-6000 labels](https://www.divbio.com/product/dtcr-6000) (for the top and side of the box).
 
+The DYMO printer application is installed on `rosalind` on the `vkclab` user.
+
 *Insert screenshot of DYMO label software*
 
 ### Color conventions
@@ -19,3 +21,31 @@ Use the following table to determine which color label to use:
 | Yellow | DTCR-6000-Y | Reagents |
 | Orange | DTCR-6000-O | Other extracted macromolecules (protein) |
 | White | DTCR-6000-W | Miscellaneous |
+
+## Storage box conventions
+
+If using standard 1-2 ml eppendorf tubes or cryovials, use a [cardboard cryobox](https://us.vwr.com/store/product/4614621/vwr-cryopro-fiberboard-storage-boxes-and-dividers) with an 81-cell divider. These boxes and dividers can be found in the cabinet under the bench to the right of the sink in L307.
+
+## Individual tube labeling
+
+Tubes should be labeled *at least* on the side with your initials (ABC), date (MM/DD), and unique sample label. These can written directly on the side of the tube or written or printed onto a [Tough Tag](*insert link to tough tag product*) (see below for [printing instructions](#printing-labels)).
+
+If desired, the tops of tubes can be labeled further with [Tough Spots](*insert link to tough spot product*). A label on the tube cap is meant to make it easier to quickly identify a sample without taking the entire tube out of the box. Use this knowledge to guide what you write on the small spot labels.
+
+### Printing labels
+
+*Insert instructions on where to find tough tag word doc template*
+
+## Documenting location in a freezer
+
+The VKC Lab owns 3 freezers: two -80˚C and one -20˚C. The -80˚C freezer next to L305 *check room number* is designated for **ECHO Samples ONLY**. The -80˚C freezer in L306A is designated for all other lab project storage.
+
+*Name individual freezers?*
+*Possible options: Balto, Yeti, Frosty*
+*National parks?: Acadia, Dinali, Yosemite, Zion, Grand Teton, Mount Rainier*
+
+When putting a new box in any of these freezers, note where the box is being placed by labeling the white board on the front of each freezer.
+
+### General organization of shelves in L306A -80˚C
+
+*TBD*
