@@ -2,9 +2,9 @@
 
 ## Handbook and Research Guidelines
 
-**2018-2019**  
-**V 4.0**  
-**Revised August 2019**  
+**2020-2021**  
+**V 4.1**  
+**Revised May 2020**  
 **Vanja Klepac-Ceraj, Ph.D.**
 
 Sections adapted from Farshid Guilak, Duke University;
@@ -702,7 +702,7 @@ Thesis students in the Klepac-Ceraj Lab
 should participate in the Science Center Summer Research Program
 during the summer before their senior year.
 The Klepac-Ceraj lab welcomes students completing thesis research
-as well as honors theses in many different disciplines.
+as well as honors theses in many different disciplines. Interested students should talk with their advisor (me) before committing to undertake thesis work and discuss all possible options of doing research in the VKC lab. For example, some students decide that they would rather be working on publishing a paper instead of writing a thesis.
 Although the thesis timeline and requirements
 may vary between academic departments,
 all thesis students in the Klepac-Ceraj Lab
