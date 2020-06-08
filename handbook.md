@@ -8,8 +8,8 @@
 **Vanja Klepac-Ceraj, Ph.D.**
 
 Sections adapted from Farshid Guilak, Duke University;
-Eric Klepac-Ceraj, Brown University;
-Vanja Klepac-Ceraj and Sharon Gobes, Wellesley College;
+Eric Darling, Brown University;
+Louise Darling and Sharon Gobes, Wellesley College;
 Mohamed Noor, Duke University;
 Pat Schloss, Michigan State University
 
